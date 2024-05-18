@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest
+.cache/
+.vscode/
+*.pytest_cache/
+
+# Allure Results
+allure-results/
+
+# Environment Variables
+.env
+.venv
+
+# IDEs and Editors
+.vscode/
+
+
+# Logs
+*.log
+*.log.*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python virtual environments
+.pip/
+__pycache__/
+
+# Virtual Environment
+.env
+.venv
